@@ -1,0 +1,6 @@
+[submodule "fetch-with-progress"]
+	path = fetch-with-progress
+	url = https://github.com/imgnx/fetch-w-progress
+[submodule "imgNXpress"]
+	path = imgNXpress
+	url = https://github.com/imgnx/imgNXpress
